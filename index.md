@@ -1,8 +1,5 @@
 ## Signup Dashboard
 
-You can use the [editor on GitHub](https://github.com/ASchiemann/ASchiemann.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Squadbox Fox1
 [Fox1]([src](https://mysageone.fox1.squad.dev-sageone.com))
