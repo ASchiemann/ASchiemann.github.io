@@ -7,7 +7,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Squadbox Fox1
 [Squadbox Fox1]([src](https://mysageone.fox1.squad.dev-sageone.com))
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Squadbox Fox2
+[Squadbox Fox1]([src](https://mysageone.fox2.squad.dev-sageone.com))
+
+### Squadbox Fox3
+[Squadbox Fox1]([src](https://mysageone.fox3.squad.dev-sageone.com))
+
+### Squadbox Fox4
+[Squadbox Fox1]([src](https://mysageone.fox4.squad.dev-sageone.com))
+
+### Squadbox Fox5
+[Squadbox Fox1]([src](https://mysageone.fox5.squad.dev-sageone.com))
+
+
+
 
 ```markdown
 Syntax highlighted code block
